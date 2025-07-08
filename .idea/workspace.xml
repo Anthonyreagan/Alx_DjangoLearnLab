@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="beedb71c-7fab-400e-9a15-af5c1945100e" name="Changes" comment="" />
+    <list default="true" id="beedb71c-7fab-400e-9a15-af5c1945100e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,11 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="tests" factoryName="Doctests">
       <module name="Alx_DjangoLearnLab" />
