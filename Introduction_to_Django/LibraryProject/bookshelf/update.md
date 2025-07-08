@@ -5,18 +5,18 @@
 ```python
 from bookshelf.models import Book
 
-book_to_update = Book.objects.get(title="1984")
-book_to_update.title = "Nineteen Eighty-Four"
-book_to_update.save()
+book = Book.objects.get(title="1984")
+book.title = "Nineteen Eighty-Four"
+book.save()
 -------------------------------------------------------------------
 
 # Expected Output (from shell):
 -------------------------------
 >>> from bookshelf.models import Book
->>> book_to_update = Book.objects.get(title="1984")
->>> book_to_update.title = "Nineteen Eighty-Four"
->>> book_to_update.save()
->>> Book.objects.get(id=book_to_update.id).title
+>>> book = Book.objects.get(title="1984")
+>>> book.title = "Nineteen Eighty-Four"
+>>> book.save()
+>>> Book.objects.get(id=book.id).title
 'Nineteen Eighty-Four'
 >>> Book.objects.all()
 <QuerySet [<Book: Nineteen Eighty-Four by George Orwell (1949)>]>
