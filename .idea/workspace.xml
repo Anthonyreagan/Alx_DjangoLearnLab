@@ -6,13 +6,29 @@
   <component name="ChangeListManager">
     <list default="true" id="beedb71c-7fab-400e-9a15-af5c1945100e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/LibraryProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/LibraryProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/create.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/create.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/delete.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/delete.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/retrieve.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/retrieve.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/update.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/update.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/manage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,34 +52,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/django-models/LibraryProject/relationship_app/templates/relationship_app" />
       <recent name="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Alx_DjangoLearnLab" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -76,5 +72,16 @@
       <updated>1751974319830</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django-models/LibraryProject/LibraryProject/urls.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
