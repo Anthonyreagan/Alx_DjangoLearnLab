@@ -1,3 +1,4 @@
+
 from django.shortcuts import render, get_object_or_404, redirect
 from django.views.generic.detail import DetailView
 from .models import Book, Library
@@ -8,7 +9,7 @@ from django.urls import reverse_lazy
 from django.contrib.auth.decorators import user_passes_test, login_required
 from .forms import BookForm
 from django.contrib.auth.decorators import permission_required
-
+from .models import Book, Library
 
 # ✅ Function-based view to list books
 def list_books(request):
@@ -93,3 +94,6 @@ def delete_book(request, pk):
         book.delete()
         return redirect('book_list')
     return render(request, 'relationship_app/book_confirm_delete.html', {'book': book})
+
+
+    from .models import Book, Library
