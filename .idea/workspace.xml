@@ -6,17 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="beedb71c-7fab-400e-9a15-af5c1945100e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/LibraryProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/LibraryProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/create.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/create.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/delete.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/delete.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/retrieve.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/retrieve.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/update.md" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/bookshelf/update.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_Django/LibraryProject/manage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +69,10 @@
           <url>file://$PROJECT_DIR$/django-models/LibraryProject/LibraryProject/urls.py</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/django-models/LibraryProject/relationship_app/models.py</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
