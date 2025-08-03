@@ -48,6 +48,10 @@ REST_FRAMEWORK = {
         # You can also keep SessionAuthentication for the browsable API
         'rest_framework.authentication.SessionAuthentication',
     ],
+
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAuthenticated',  # Example of a global default
+    ],
 }
 
 MIDDLEWARE = [
